@@ -1,8 +1,50 @@
+[
+  {
+    "petStoreName": "Really Cool Pet Store",
+    "petStoreAddress": "8395 North Bladford Lane",
+    "petStoreCity": "Gangrene",
+    "petStoreState": "Georgia",
+    "petStoreZip" : "12345",
+    "petStorePhone": "303-322-4995"
+  },
 {
-  "petStoreName": "Really Cool Pet Store",
-  "petStoreAddress": "8395 North Bladford Lane",
-  "petStoreCity": "Gangrene",
-  "petStoreState": "Georgia",
-  "petStoreZip" : "12345",
-  "petStorePhone": "303-322-4995"
+  "petStoreName": "Pet Store",
+  "petStoreAddress": "95 Main Street",
+  "petStoreCity": "El Paso",
+  "petStoreState": "Texas",
+  "petStoreZip" : "56568",
+  "petStorePhone": "405-322-4995"
+},
+{
+  "petStoreName": "Nice Pet Store",
+  "petStoreAddress": "85 North California Lane",
+  "petStoreCity": "San Antonio",
+  "petStoreState": "Texas",
+  "petStoreZip" : "16585",
+  "petStorePhone": "405-295-8736"
+},
+{
+  "petStoreName": "Cats and Dogs Store",
+  "petStoreAddress": "79 South Otero St",
+  "petStoreCity": "Phoenix",
+  "petStoreState": "Arizona",
+  "petStoreZip" : "29874",
+  "petStorePhone": "565-259-2458"
+},
+{
+  "petStoreName": " Bark Store",
+  "petStoreAddress": "6th Street",
+  "petStoreCity": "Denver",
+  "petStoreState": "Colorado",
+  "petStoreZip" : "54321",
+  "petStorePhone": "123-654-2454"
+},
+{
+  "petStoreName": " Pet Supplies",
+  "petStoreAddress": "Abbey Road",
+  "petStoreCity": "Las Vegas",
+  "petStoreState": "Nevada",
+  "petStoreZip" : "87805",
+  "petStorePhone": "547-392-5666"
 }
+]
